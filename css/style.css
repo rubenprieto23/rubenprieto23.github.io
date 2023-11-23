@@ -118,9 +118,11 @@ li a:hover:not(.active) {
 article{
   padding: 20px;
   background-color: #8391b1;
+
 }
-
-
+.conor img{
+  size: 50%;
+}
 
 
 @media (max-width: 600px) {
